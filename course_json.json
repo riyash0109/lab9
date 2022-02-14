@@ -1,0 +1,44 @@
+[
+        {
+            "name": "Akshaya",
+            "email": "akshayagmail.com",
+            "course": "MCA",
+            "department": "Sciences",
+            "performance": 0.92
+        },
+        {
+            "name": "Pavan",
+            "email": "pavan@gmail.com",
+            "course": "BCA",
+            "department": "Sciences",
+            "performance": 0.65
+        },
+        {
+            "name": "Ashwin",
+            "email": "ashwin@gmail.com",
+            "course": "LLB",
+            "department": "Law",
+            "performance": 0.78
+        },
+        {
+            "name": "Vaishnavi",
+            "email": "vaishnavi@gmail.com",
+            "course": "Bsc Psychology",
+            "department": "Psychology",
+            "performance": 0.91
+        },
+        {
+            "name": "Pooja",
+            "email": "pooja@gmail.com",
+            "course": "Msc Social Work",
+            "department": "Humanities",
+            "performance": 0.87
+        },
+        {
+            "name": "Anisha",
+            "email": "anisha@gmail.com",
+            "course": "Bsc Mathematics",
+            "department": "Sciences",
+            "performance": 0.78
+        }
+]
